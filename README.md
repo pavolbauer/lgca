@@ -1,5 +1,5 @@
 # lgca
-An Agent-Based contact simulation based on Lattice Gas Cellular Automata 
+A Matlab/CUDA based simulation of infectious contacts using a Lattice Gas Cellular Automaton
 
 An implementation based on Matlab and CUDA.
 Three CUDA kernels are available and can be used interchangebly.
