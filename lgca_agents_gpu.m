@@ -1,7 +1,4 @@
 function [ output_args ] = lgca_agents_gpu( NumBlocks, NumThreads, LGCASize, its )
-%
-% Debug verison of gpu demo - including visualisation
-
 %lgca_agents_gpu Lattice Gas Cellular Automaton on GPU.
 % This script calls one of the GPU kernels and visualizes the iterative propagation of agents.
 % Matlab Parallel Computing Toolbox v6.0 or higher is required due to CUDA support.
