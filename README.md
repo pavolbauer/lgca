@@ -10,5 +10,6 @@ The key difference is how the chiral rotations at collisions of agents is handle
 * lgca_no_collissions.cu: no rotations after colissions
 
 For more information see:
-Dieter A. Wolf-Gladrow: Lattice Gas Cellular Automata and Lattice Boltzmann Models
+A) Attached master thesis of myself
+B) Dieter A. Wolf-Gladrow: Lattice Gas Cellular Automata and Lattice Boltzmann Models
 ISBN: 978-3-540-66973-9
